@@ -1,24 +1,5 @@
 # interior-design
 
-## Project setup
-```
-npm install
-```
+## Final Project in Vue js course
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+github pages - https://beg-lezzz.github.io/interior-design/
