@@ -76,8 +76,14 @@ export default {
   width: 100%;
   opacity: 0;
 }
+.container {
+  &:hover .imgwrapper {
+    opacity: 1;
+  }
+}
 .imgwrapper {
   background-size: 100% 100%;
+  opacity: 0.5;
 }
 .top__left {
   border-top-left-radius: 65px;
@@ -99,9 +105,6 @@ export default {
   padding-bottom: 25px;
   break-inside: avoid-column;
   cursor: pointer;
-  &:hover img {
-    opacity: 1;
-  }
 }
 .info__header {
   color: #292F36;
